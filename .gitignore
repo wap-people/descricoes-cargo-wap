@@ -1,0 +1,17 @@
+# Este repositorio e PUBLICO. Nada aqui deve conter planilha, segredo ou
+# arquivo interno. As linhas abaixo sao uma rede de protecao: mesmo que
+# alguem copie um arquivo desses para a pasta, o git nao vai publicar.
+*.xlsm
+*.xlsx
+*.xls
+*.csv
+*.docx
+*.pdf
+*token*
+*secret*
+*.key
+*.pem
+*.env
+.env*
+# a pagina interna de Gestao e Pendencias nunca deve ir para a web
+*Gest*o e Pend*ncias*.html
