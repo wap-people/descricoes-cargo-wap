@@ -15,3 +15,11 @@
 .env*
 # a pagina interna de Gestao e Pendencias nunca deve ir para a web
 *Gest*o e Pend*ncias*.html
+
+# EXCECAO (18/11/2026): os PDFs das descricoes de cargo, para o botao
+# "Baixar todas em PDF (.zip)" do site. Liberados SO dentro de pdf/,
+# pasta mantida inteira pelo script "Gerar PDFs.ps1" (que apaga ali
+# qualquer PDF que nao seja de um cargo da base). Em qualquer outro
+# lugar do repositorio, .pdf e .csv continuam bloqueados.
+!pdf/**/*.pdf
+!pdf/_INDICE.csv
