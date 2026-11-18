@@ -1,7 +1,7 @@
 DESCRIÇÕES DE CARGO — WAP
 ============================================================
 
-327 descrições · dados de 18/11/2026 16:28
+327 descrições · dados de 18/11/2026 17:06
 
 Cada PDF tem exatamente a mesma formatação do "Gerar PDF" da página
 de consulta: é produzido pelo mesmo motor de impressão do navegador,
