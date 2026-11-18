@@ -1,0 +1,15 @@
+DESCRIÇÕES DE CARGO — WAP
+============================================================
+
+327 descrições · dados de 18/11/2026 16:28
+
+Cada PDF tem exatamente a mesma formatação do "Gerar PDF" da página
+de consulta: é produzido pelo mesmo motor de impressão do navegador,
+a partir da mesma página.
+
+  Pastas         uma por área, com um PDF por cargo
+  _INDICE.csv    cargo, área, CBO, versão, data da última revisão,
+                 status e o caminho do PDF. Abre no Excel.
+
+Página de consulta:
+https://wap-people.github.io/descricoes-cargo-wap/
